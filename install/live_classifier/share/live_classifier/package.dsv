@@ -1,0 +1,9 @@
+source;share/live_classifier/hook/pythonpath.ps1
+source;share/live_classifier/hook/pythonpath.dsv
+source;share/live_classifier/hook/pythonpath.sh
+source;share/live_classifier/hook/ament_prefix_path.ps1
+source;share/live_classifier/hook/ament_prefix_path.dsv
+source;share/live_classifier/hook/ament_prefix_path.sh
+source;../../build/live_classifier/share/live_classifier/hook/pythonpath_develop.ps1
+source;../../build/live_classifier/share/live_classifier/hook/pythonpath_develop.dsv
+source;../../build/live_classifier/share/live_classifier/hook/pythonpath_develop.sh

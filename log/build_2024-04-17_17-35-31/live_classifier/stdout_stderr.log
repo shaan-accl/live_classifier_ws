@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating live_classifier.egg-info
+writing live_classifier.egg-info/PKG-INFO
+writing dependency_links to live_classifier.egg-info/dependency_links.txt
+writing entry points to live_classifier.egg-info/entry_points.txt
+writing requirements to live_classifier.egg-info/requires.txt
+writing top-level names to live_classifier.egg-info/top_level.txt
+writing manifest file 'live_classifier.egg-info/SOURCES.txt'
+reading manifest file 'live_classifier.egg-info/SOURCES.txt'
+writing manifest file 'live_classifier.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/python3.8/site-packages/site.py
+Creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/python3.8/site-packages/live-classifier.egg-link (link to .)
+Installing gpu_img_publisher script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+Installing gpu_img_subscriber script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+Installing img_publisher script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+Installing img_subscriber script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+Installing webcam_classifier script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+
+Installed /home/accl_orin_nano2/live_classifier_ws/build/live_classifier
+running symlink_data
+creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index
+creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index/resource_index
+creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index/resource_index/packages
+symbolically linking /home/accl_orin_nano2/live_classifier_ws/build/live_classifier/resource/live_classifier -> /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index/resource_index/packages
+symbolically linking /home/accl_orin_nano2/live_classifier_ws/build/live_classifier/package.xml -> /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/live_classifier

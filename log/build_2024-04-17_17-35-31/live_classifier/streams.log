@@ -1,0 +1,29 @@
+[4.262s] Invoking command in '/home/accl_orin_nano2/live_classifier_ws/build/live_classifier': PYTHONPATH=/home/accl_orin_nano2/live_classifier_ws/build/live_classifier/prefix_override:/home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/accl_orin_nano2/live_classifier_ws/build/live_classifier/build --no-deps symlink_data
+[6.134s] running develop
+[6.730s] running egg_info
+[6.731s] creating live_classifier.egg-info
+[6.732s] writing live_classifier.egg-info/PKG-INFO
+[6.733s] writing dependency_links to live_classifier.egg-info/dependency_links.txt
+[6.733s] writing entry points to live_classifier.egg-info/entry_points.txt
+[6.733s] writing requirements to live_classifier.egg-info/requires.txt
+[6.734s] writing top-level names to live_classifier.egg-info/top_level.txt
+[6.734s] writing manifest file 'live_classifier.egg-info/SOURCES.txt'
+[6.803s] reading manifest file 'live_classifier.egg-info/SOURCES.txt'
+[6.804s] writing manifest file 'live_classifier.egg-info/SOURCES.txt'
+[6.963s] running build_ext
+[6.964s] Creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/python3.8/site-packages/site.py
+[6.972s] Creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/python3.8/site-packages/live-classifier.egg-link (link to .)
+[6.974s] Installing gpu_img_publisher script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+[6.975s] Installing gpu_img_subscriber script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+[6.975s] Installing img_publisher script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+[6.975s] Installing img_subscriber script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+[6.975s] Installing webcam_classifier script to /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/live_classifier
+[6.976s] 
+[6.976s] Installed /home/accl_orin_nano2/live_classifier_ws/build/live_classifier
+[6.976s] running symlink_data
+[6.976s] creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index
+[6.976s] creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index/resource_index
+[6.977s] creating /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index/resource_index/packages
+[6.977s] symbolically linking /home/accl_orin_nano2/live_classifier_ws/build/live_classifier/resource/live_classifier -> /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/ament_index/resource_index/packages
+[6.977s] symbolically linking /home/accl_orin_nano2/live_classifier_ws/build/live_classifier/package.xml -> /home/accl_orin_nano2/live_classifier_ws/install/live_classifier/share/live_classifier
+[7.057s] Invoked command in '/home/accl_orin_nano2/live_classifier_ws/build/live_classifier' returned '0': PYTHONPATH=/home/accl_orin_nano2/live_classifier_ws/build/live_classifier/prefix_override:/home/accl_orin_nano2/live_classifier_ws/install/live_classifier/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/accl_orin_nano2/live_classifier_ws/build/live_classifier/build --no-deps symlink_data

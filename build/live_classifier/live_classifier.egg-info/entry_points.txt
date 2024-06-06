@@ -1,0 +1,7 @@
+[console_scripts]
+gpu_img_publisher = live_classifier.arguscam_pub:main
+gpu_img_subscriber = live_classifier.arguscam_sub:main
+img_publisher = live_classifier.webcam_pub:main
+img_subscriber = live_classifier.webcam_sub:main
+webcam_classifier = live_classifier.webcam_classifier:main
+

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+live_classifier/__init__.py
+live_classifier/arguscam_pub.py
+live_classifier/arguscam_sub.py
+live_classifier/webcam_classifier.py
+live_classifier/webcam_pub.py
+live_classifier/webcam_sub.py
+live_classifier.egg-info/PKG-INFO
+live_classifier.egg-info/SOURCES.txt
+live_classifier.egg-info/dependency_links.txt
+live_classifier.egg-info/entry_points.txt
+live_classifier.egg-info/requires.txt
+live_classifier.egg-info/top_level.txt
+live_classifier.egg-info/zip-safe
+resource/live_classifier
